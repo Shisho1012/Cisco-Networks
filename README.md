@@ -1,6 +1,8 @@
 # 💻 Cisco Networks – Prácticas de Networking
 
-## Este repositorio documenta mi aprendizaje práctico en el curso Conceptos Básicos de Redes de Cisco Networking Academy.
+## 🎯 Objetivo del repositorio
+
+Documentar mi progreso práctico en redes, desarrollando habilidades fundamentales en configuración, conectividad y diagnóstico de redes, como base para especialización en Cloud Computing.
 
 ## 📂 Contenido del repositorio
 
