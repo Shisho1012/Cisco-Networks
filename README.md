@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo del repositorio
 
-Documentar mi progreso práctico en redes, desarrollando habilidades fundamentales en configuración, conectividad y diagnóstico de redes, como base para especialización en Cloud Computing.
+Documentar mi progreso práctico en redes, desarrollando habilidades fundamentales en configuración, conectividad y diagnóstico de redes, como base para la certificación AWS Solutions Architect Associate y desarrollo de carrera en Cloud Engineering.
 
 ## 📂 Contenido del repositorio
 
